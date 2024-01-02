@@ -1,5 +1,5 @@
 - 👋 Hi, I’m khaldi anis rabah
-- 👀 I’m engineering student in computer science
+- 👀 I’m an engineering student in computer science
 - 🌱 I’m currently learning neural network
 - 📫 reach me on linkedin "linkedin.com/in/anis-rabah-2a780925a/"
 
